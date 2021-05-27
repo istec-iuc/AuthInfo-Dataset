@@ -10,9 +10,6 @@ AuthInfo-Dataset creates from eight different data sources that leaked from onli
 
 Dataset feature will be shared after the article is published. 
 
-
-'  ![](resim.png)
-
 # Citations
 
 If you use the dataset, please cite the following paper:
