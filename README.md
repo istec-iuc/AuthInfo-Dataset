@@ -8,6 +8,7 @@ AuthInfo-Dataset creates from eight different data sources that leaked from onli
 [https://doi.org/10.1016/j.cose.2021.102560](https://doi.org/10.1016/j.cose.2021.102560)
 
 ![Data Gathering Work Flow](figures/dataGathering.jpg)
+
 *Figure 1. Data Gathering Work Flow*
 
 ## AuthInfo-Dataset Feature
